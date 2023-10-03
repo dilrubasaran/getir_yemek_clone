@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css");
+
+@layer base {
+    html, body {
+        font-family: 'Open Sans', sans-serif,
+        @apply antialiased bg-[#fafafa];
+    }
+};
+
+/* veya yazısı classı */
+
+.divider {
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+};
+
+.divider::after,
+.divider::before {
+  content: "";
+  border: 1px solid black;
+  flex: 1;
+};
+
+.divider:not(:empty)::before {
+  margin-right: 0.25em;
+};
+
+.divider:not(:empty)::after {
+  margin-left: 0.25em;
+};
+ 
+/* +90 inputunun classı */
+
+.flag-select button {
+    @apply h-14 border-2 border-gray-200 bg-white
+    group-hover:border-[#5d3ebc] 
+    outline-none focus:border-[#5d3ebc]
+};
+  
+  .flag-select button > span span:nth-child(2) {
+    @apply text-sm pl-2;
+  }

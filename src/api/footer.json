@@ -1,0 +1,91 @@
+[
+    {
+        "title": "Getiri Keşfedin",
+        "items": [
+            {
+                "text": "Hakkımızda",
+                "url": "https://getir.com/hakkimizda/"
+            },
+
+            {
+                "text": "Kariyer",
+                "url": "https://career.getir.com/"
+            },
+
+            {
+                "text": "Teknoloji Kariyerleri",
+                "url": "https://career.getir.com/#job-section"
+            },
+
+            {
+                "text": "İletişim",
+                "url": "https://getir.com/hakkimizda/iletisim/"
+            },
+
+            {
+                "text": "Sosyal Sorumluluk Projeleri",
+                "url": "https://getir.com/sosyal-sorumluluk-projeleri/"
+            }
+        ]
+    },
+
+    {
+        "title": "Yardıma mı ihtiyacınız var?",
+        "items": [
+            {
+                "text": "Sıkça Sorulan Sorular",
+                "url": "hhttps://getir.com/yardim/sss/"
+            },
+
+            {
+                "text": "Kişisel Verilerin Korunması",
+                "url": "https://getir.com/yardim/kvkk/"
+            },
+
+            {
+                "text": "Gizlilik Politikası",
+                "url": "https://getir.com/yardim/gizlilik-politikasi/"
+            },
+
+            {
+                "text": "Kullanım Koşulları",
+                "url": "https://getir.com/yardim/kullanim-kosullari/"
+            },
+
+            {
+                "text": "Çerez Politikası",
+                "url": "https://getir.com/yardim/cerez-politikasi/"
+            }
+        ] 
+    },
+
+    {
+        "title": "İş Ortağımız Olun",
+        "items": [
+            {
+                "text": "Bayimiz Olun",
+                "url": "https://bayi-basvuru.getir.com/"
+            },
+
+            {
+                "text": "Deponuzu Kiralayın",
+                "url": "https://depodukkan.getir.com/"
+            },
+
+            {
+                "text": "GetirYemek Restoranı Olun",
+                "url": "https://restoran.getiryemek.com/form/on-basvuru/"
+            },
+
+            {
+                "text": "GetirÇarşı İşletmesi Olun",
+                "url": "https://panel.getircarsi.com/form/pre-application"
+            },
+
+            {
+                "text": "Zincir Restoranlar",
+                "url": "https://getir.com/yemek/markalar/"
+            }
+        ] 
+    }
+]
