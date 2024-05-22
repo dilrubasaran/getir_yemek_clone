@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/getir_yemek_clone/static/css/main.3cb81633.css",
+    "main.js": "/getir_yemek_clone/static/js/main.7c481418.js",
+    "static/media/GetirYemek.svg": "/getir_yemek_clone/static/media/GetirYemek.ccd281219a9229626f43fa9fd0fe490c.svg",
+    "static/media/GetirCarsi.svg": "/getir_yemek_clone/static/media/GetirCarsi.8457d9b1f753fdbbe7f1f1a20d39cb7f.svg",
+    "static/media/GetirSu.svg": "/getir_yemek_clone/static/media/GetirSu.b8c8b01776846fd7b68fa1de001c16c8.svg",
+    "static/media/GetirBuyuk.svg": "/getir_yemek_clone/static/media/GetirBuyuk.3425cc3f1929eb189f28a7f88e0a051f.svg",
+    "static/media/Getir.svg": "/getir_yemek_clone/static/media/Getir.7395f46e0d148a6397dc414c4ef91922.svg",
+    "static/media/slick.svg": "/getir_yemek_clone/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/getir_yemek_clone/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/getir_yemek_clone/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/getir_yemek_clone/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/getir_yemek_clone/index.html",
+    "main.3cb81633.css.map": "/getir_yemek_clone/static/css/main.3cb81633.css.map",
+    "main.7c481418.js.map": "/getir_yemek_clone/static/js/main.7c481418.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cb81633.css",
+    "static/js/main.7c481418.js"
+  ]
+}
